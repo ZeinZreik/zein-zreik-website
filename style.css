@@ -31,6 +31,10 @@ body {
     background: radial-gradient(circle at top left, #1b1f40 0, #050816 45%, #020308 100%);
     overflow-x: hidden;
     position: relative;
+    min-height: 100vh;
+    /* fallback for older browsers */
+    min-height: 100dvh;
+    /* real visible viewport height on mobileb */
 }
 
 /* Animated background orbits */
