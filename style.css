@@ -76,12 +76,12 @@ body {
 
 .layout {
     max-width: 1120px;
-    margin: 96px auto 72px;
+    margin: 48px auto 72px;
     padding: 0 20px 40px;
 }
 
 /* Header / nav */
-
+/* 
 .site-header {
     position: sticky;
     top: 0;
@@ -137,7 +137,7 @@ body {
 
 .nav a:hover::after {
     width: 100%;
-}
+} */
 
 /* Hero */
 
