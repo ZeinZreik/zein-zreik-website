@@ -605,6 +605,7 @@ body {
 
 .role-badge {
     display: inline-block;
+    width: auto;
     margin-top: 6px;
     padding: 4px 10px;
     background: rgba(255, 255, 255, 0.08);
@@ -613,4 +614,13 @@ body {
     font-size: 0.85rem;
     font-weight: 500;
     color: #e7e9ff;
+
+}
+
+.hero-subrole {
+    margin-top: 4px;
+    font-size: 1.05rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.75);
+    letter-spacing: 0.2px;
 }
