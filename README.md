@@ -18,14 +18,10 @@ The site presents embedded software, automation, robotics, IoT security, compute
 - Connecting GitHub repositories, work experience, and contact links
 - Turning project history into a clearer professional narrative
 
-## Suggested GitHub Topics
+## Project Roadmap
 
-`portfolio` `personal-website` `engineering-portfolio` `robotics` `embedded-systems` `mechatronics`
-
-## Future Enhancements
-
-- Add screenshots of the live website.
-- Document the tech stack, setup command, and deployment flow.
-- Add Lighthouse or performance notes.
-- Link each featured project to its GitHub repository.
-- Add a short changelog for major portfolio updates.
+- Live-site screenshots
+- Tech stack, setup command, and deployment notes
+- Lighthouse and performance notes
+- Direct links from featured projects to their GitHub repositories
+- Changelog for major portfolio updates
