@@ -450,6 +450,17 @@ body {
     font-size: 16px;
 }
 
+.timeline h3 a,
+.project-item h3 a {
+    color: var(--text-main);
+    text-decoration: none;
+}
+
+.timeline h3 a:hover,
+.project-item h3 a:hover {
+    color: var(--accent-strong);
+}
+
 .timeline-meta {
     font-size: 13px;
     color: var(--text-muted);
@@ -550,6 +561,26 @@ body {
 .site-footer .mono {
     font-family: "JetBrains Mono", monospace;
     opacity: 0.9;
+}
+
+.resume-layout {
+    min-height: 100vh;
+    display: grid;
+    align-items: center;
+}
+
+.resume-card {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.resume-card h1 {
+    margin: 0 0 12px;
+    font-size: clamp(30px, 4vw, 42px);
+}
+
+.resume-actions {
+    margin-top: 22px;
 }
 
 /* Responsive */
